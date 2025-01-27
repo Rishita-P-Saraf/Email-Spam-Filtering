@@ -1,4 +1,4 @@
-# Email Spam Detection System
+# Email Spam Filtering
 
 ## Overview
 
